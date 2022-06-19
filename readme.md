@@ -8,4 +8,4 @@ through building a regression model using transactions data:<br>
 * Presenting the key findings and the solution to the client.<br>
 ### Technologies used
 Python - Pandas - Numpy - Sklearn - Plotly - Matplotlib
-Seaborn - Flask - Heroku - CatBoost - XgBoost - LightGBM
+Seaborn - Catboost - XGBoost - LightGBM
