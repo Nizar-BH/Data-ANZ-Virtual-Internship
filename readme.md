@@ -5,4 +5,7 @@ through building a regression model using transactions data:<br>
 * Indepth insights extraction to fathom the existing correlations.
 * Data preparation and feature engineering for the modelling phase.
 * Evaluating the models and deploying the most performing.
-* Presenting the key findings and the solution to the client.
+* Presenting the key findings and the solution to the client.<br>
+### Technologies used
+Python - Pandas - Numpy - Sklearn - Plotly - Matplotlib
+Seaborn - Flask - Heroku - CatBoost - XgBoost - LightGBM
